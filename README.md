@@ -29,7 +29,7 @@ We passed the first selection stage of a startup program in Dubai and agreed a p
 My focus is building and improving my own product. These are technologies used in the reviewed project, rather than claims of unrelated employment or expertise.
 
 ## Current priorities
-- Resolve the remaining integration-test failure and validate the release with real PostgreSQL.
+- Validate the release with real PostgreSQL after passing the complete local test suite, including 186 HTTP integration checks.
 - Finish student and company workflow acceptance testing.
 - Validate email and AI integrations before a limited pilot.
 - Connect and test financial-provider workflows before enabling real payments.
